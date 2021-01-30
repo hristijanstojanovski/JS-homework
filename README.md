@@ -1,0 +1,2 @@
+# JS-homework
+Domasni javascript
